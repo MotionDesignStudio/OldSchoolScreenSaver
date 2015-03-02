@@ -1,0 +1,29 @@
+
+
+@font-face {
+    font-family: 'SoulMission';
+    src: url('SoulMission.ttf');
+}
+
+
+@font-face {
+    font-family: 'FreeMonoBold';
+    src: url('FreeMonoBold.ttf');
+}
+
+
+@font-face {
+    font-family: 'MyriadPro-Bold';
+    src: url('MyriadPro-Bold.ttf');
+}
+
+
+#canvas1 { 
+    border:1px solid #000000;
+}
+
+body
+{
+	margin: 0;
+	padding: 0;
+} 
