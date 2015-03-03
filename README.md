@@ -1,8 +1,6 @@
-https://github.com/lindylex/OldSchoolScreenSaver.git
+This randomly places objects along a path with random characteristics.
 
-This randomly places object along a path with random characteristics.
-
-See it in action:  http://mo-de.net/aiar
+Preview Here:  http://mo-de.net/aiar
 
 Contact:  https://motiondesigntechnology.wordpress.com/
 
